@@ -13,19 +13,18 @@ I specialize in **CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **con
 ### 🧰 **DevOps Toolchain**
 
 |  |  |  |
-| --- | --- | --- |
-| <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="100" /> | <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" width="100" /> | <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" width="100" /> |
-| <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="100" /> | <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" width="100" /> | <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" width="100" /> |
-| <img src="https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" width="100" /> |  |  |
+
+| Git | Docker | Kubernetes | Ansible | Terraform | Jenkins |
+| --- | ------ | ---------- | ------- | ---------- | ------- |
+| ![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png) | ![Docker](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png) | ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg) | ![Ansible](https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg) | ![Terraform](https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.png) | ![Jenkins](https://www.jenkins.io/images/logos/jenkins/jenkins.png) |
 
 ---
 
 ### ☁️ **Cloud & Monitoring**
 
-|  |  |  |
-| --- | --- | --- |
-| <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" width="100" /> | <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" width="100" /> | <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" width="100" /> |
-| <img src="https://img.shields.io/badge/-ELK-005571?style=for-the-badge&logo=elasticstack&logoColor=white" width="100" /> |  |  |
+| AWS | Prometheus | Grafana |
+| --- | ---------- | ------- |
+| ![AWS](https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png) | ![Prometheus](https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg) | ![Grafana](https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg) |
 
 ---
 
@@ -76,7 +75,7 @@ I specialize in **CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **con
 
 ### 📞 To Reach Me
 
-📧 **Email**: asif.shaikh@email.com  
+📧 **Email**: asifshaikh4906@email.com  
 📱 **Phone**: +91 8080851485  
 🔗 **LinkedIn**: [linkedin.com/in/asif-shaikh-94aa56225](https://linkedin.com/in/asif-shaikh-94aa56225)  
 
