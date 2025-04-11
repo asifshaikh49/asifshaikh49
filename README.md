@@ -80,18 +80,19 @@ I specialize in **CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **con
 ---
 
 ### 📞 To Reach Me
+📧 Shoot me an [email](mailto:asifshaikh5906@email.com)  
+📱 Call me on [phone](tel:+918080851485)  
+🔗 Connect with me on [LinkedIn](https://linkedin.com/in/asif-shaikh-94aa56225)
 
-📧 **Email**: asifshaikh5906@email.com  
-📱 **Phone**: +91 8080851485  
-🔗 **LinkedIn**: [linkedin.com/in/asif-shaikh-94aa56225](https://linkedin.com/in/asif-shaikh-94aa56225)  
 
 ---
 
 ### ⚙️ **DevOps Engineer**
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/asifshaikh49/asifshaikh49/main/Devops.png" alt="DevOps Logo" width="240" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asifshaikh49/asifshaikh49/main/Devops.png" alt="DevOps Logo" width="100%" />
 </p>
+
 
 
 
