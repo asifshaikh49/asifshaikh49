@@ -12,19 +12,27 @@ I specialize in **CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **con
 
 ### 🧰 **DevOps Toolchain**
 
-|  |  |  |
-
-| Git | Docker | Kubernetes | Ansible | Terraform | Jenkins |
-| --- | ------ | ---------- | ------- | ---------- | ------- |
-| ![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png) | ![Docker](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png) | ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg) | ![Ansible](https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg) | ![Terraform](https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.png) | ![Jenkins](https://www.jenkins.io/images/logos/jenkins/jenkins.png) |
+<p align="left">
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" />
+  <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab" width="40" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Actions" width="40" />
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Ansible" width="40" />
+  <img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.png" alt="Terraform" width="40" />
+  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="Jenkins" width="40" />
+</p>
 
 ---
 
 ### ☁️ **Cloud & Monitoring**
 
-| AWS | Prometheus | Grafana |
-| --- | ---------- | ------- |
-| ![AWS](https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png) | ![Prometheus](https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg) | ![Grafana](https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg) |
+<p align="left">
+  <img src="./image.png" alt="AWS Logo" width="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" alt="Prometheus" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="Grafana" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Elastic_Logo.svg/2048px-Elastic_Logo.svg.png" alt="ELK Stack" width="80" />
+</p>
 
 ---
 
@@ -71,11 +79,9 @@ I specialize in **CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **con
 
 ---
 
----
-
 ### 📞 To Reach Me
 
-📧 **Email**: asifshaikh4906@email.com  
+📧 **Email**: asif.shaikh@email.com  
 📱 **Phone**: +91 8080851485  
 🔗 **LinkedIn**: [linkedin.com/in/asif-shaikh-94aa56225](https://linkedin.com/in/asif-shaikh-94aa56225)  
 
