@@ -1,80 +1,78 @@
-# 🚀 VisvesvarayaCode  
+# ⚙️ AsifahmedOps  
 
-**"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."**  
-— Sir M. Visvesvaraya  
+**"Engineering is not only about building software, but enabling it to build, run, and scale reliably."**  
+— Inspired by the legacy of Sir M. Visvesvaraya  
 
-Welcome to **VisvesvarayaCode**, a **Full-Stack Java Development** repository inspired by the legendary Indian engineer **Sir M. Visvesvaraya**. This repo is a hub for **enterprise-grade backend solutions, dynamic web applications, and database-driven projects** using modern Java technologies. 
-
+Welcome to **AsifahmedOps**, a **DevOps Engineering** repository crafted by **Asifahmed Shaikh**.  
+This repo serves as a centralized hub for **automation pipelines, infrastructure as code, CI/CD workflows, and containerized deployments** using modern DevOps technologies.  
 
 ---
 
-### 🖥️ **Frontend**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![ReactJS](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+### 🧰 **DevOps Toolchain**  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
 
-### ⚙️ **Backend**  
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB43F?style=for-the-badge&logo=spring)  
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate)  
-![JDBC](https://img.shields.io/badge/-JDBC-003366?style=for-the-badge&logo=oracle)  
-![Servlet](https://img.shields.io/badge/-Servlet-FF7800?style=for-the-badge)  
-![JSP](https://img.shields.io/badge/-JSP-007396?style=for-the-badge)  
+---
 
-### 🗄️ **Database**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![OracleSQL](https://img.shields.io/badge/-OracleSQL-F80000?style=for-the-badge&logo=oracle)  
+### ☁️ **Cloud & Monitoring**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
+![ELK Stack](https://img.shields.io/badge/-ELK-005571?style=for-the-badge&logo=elasticstack&logoColor=white)  
 
 ---
 
 ## 📌 Tech Stack  
 
-### 🖥️ **Frontend:**  
-🔹 HTML, CSS, JavaScript  
-🔹 ReactJS  
+### ⚙️ **DevOps & Automation:**  
+🔹 Git, GitLab CI/CD, GitHub Actions  
+🔹 Docker & Kubernetes (K8s)  
+🔹 Jenkins for pipeline automation  
+🔹 Ansible for configuration management  
+🔹 Terraform for infrastructure provisioning  
 
-### ⚙️ **Backend:**  
-🔹 Java (JDK 17+)  
-🔹 Hibernate ORM  
-🔹 JDBC, Servlets, JSP  
-🔹 Spring Framework (Spring Boot, Spring MVC, Spring Security)  
+### ☁️ **Cloud & Infrastructure:**  
+🔹 AWS (EC2, S3, IAM, EKS, CloudWatch)  
+🔹 Azure DevOps  
+🔹 Linux Server Administration  
 
-### 🗄️ **Database:**  
-🔹 MySQL, Oracle SQL  
-
- 
+### 📊 **Monitoring & Logging:**  
+🔹 Prometheus & Grafana  
+🔹 ELK Stack (Elasticsearch, Logstash, Kibana)  
+🔹 CloudWatch  
 
 ---
 
-## 🔥 Features  
+## 🚀 Highlights  
 
-✅ **Enterprise-Level Java Web Apps**  
-✅ **Efficient ORM with Hibernate**  
-✅ **Secure API Development with Spring**  
-✅ **Dynamic UI with ReactJS**  
-✅ **Optimized SQL Queries for High Performance**  
+✅ **CI/CD Pipeline Automation**  
+✅ **Container Orchestration with Kubernetes**  
+✅ **Infrastructure as Code (IaC) with Terraform**  
+✅ **Cloud-Native Deployments (AWS/Azure)**  
+✅ **Centralized Monitoring and Logging**  
+✅ **Scalable and Secure Infrastructure Design**  
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VisvesvarayaCode&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsifahmedShaikh&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📊 Top Languages
+## 🧑‍💻 Contribution Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VisvesvarayaCode&layout=compact&theme=tokyonight)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifahmedShaikh&layout=compact&theme=tokyonight)
 
 ---
 
-![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+---
 
-
-
-
-
-
+![DevOps GIF](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
