@@ -90,5 +90,5 @@ I specialize in **CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **con
 ### ⚙️ **DevOps Engineer**
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/asifshaikh49/devops-assets/main/devops-infinity-team.png" alt="DevOps Infinity Team" width="240" />
+  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*IJPdiJ7s4kwiVdcTqU-CbA.png" alt="DevOps Infinity Loop" width="240" />
 </p>
