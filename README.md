@@ -80,8 +80,8 @@ I specialize in **CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **con
 ---
 
 ### 📞 To Reach Me
-📧 Shoot me an [email](mailto:asifshaikh5906@email.com)  
-📱 Call me on [phone](tel:+918080851485)  
+📧 Shoot me an [Email](mailto:asifshaikh4906@email.com)  
+📱 📱 Call me on [8080851485](tel:+918080851485)
 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/asif-shaikh-94aa56225)
 
 
