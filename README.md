@@ -2,24 +2,31 @@
 
 **"Engineering is not only about building software, but enabling it to build, run, and scale reliably."**  
 
-Welcome to **Asif Shaikh**, a **DevOps Engineering** repository maintained by **Asifahmed Shaikh**.  
-This repo serves as a centralized hub for **automation pipelines, infrastructure as code, CI/CD workflows, and containerized deployments** using modern DevOps technologies.  
+## 👋 About Me
+
+My name is **Asif Shaikh**. I am a passionate **DevOps Engineer** with a deep interest in **Cloud Computing**, **Automation**, and **Linux System Administration**. I have **1 year of experience** as a **DevOps Intern**, where I focused on automating deployments, maintaining CI/CD pipelines, and managing infrastructure using cloud technologies. My goal is to streamline development workflows, improve scalability, and optimize system performance through automation and cloud-native deployments. 
+
+I specialize in **CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **containerization**. With my hands-on experience in **AWS**, **Docker**, and **Kubernetes**, I strive to bring scalable solutions to the cloud and ensure smooth operations through monitoring and logging.
 
 ---
 
 ### 🧰 **DevOps Toolchain**  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
+
+| Tool | Badge |
+| ---- | ----- |
+| Linux | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| Git | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| GitLab | ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) |
+| GitHub Actions | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
+| Docker | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| Kubernetes | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
+| Ansible | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) |
+| Terraform | ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) |
 
 ---
 
 ### ☁️ **Cloud & Monitoring**  
+
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
@@ -72,4 +79,14 @@ This repo serves as a centralized hub for **automation pipelines, infrastructure
 
 ---
 
-![DevOps Engineer GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+### 📞 To Reach Me
+
+📧 **Email**: asif.shaikh@email.com  
+📱 **Phone**: +91 8080851485  
+🔗 **LinkedIn**: [linkedin.com/in/asif-shaikh-94aa56225](https://linkedin.com/in/asif-shaikh-94aa56225)  
+
+---
+
+### ⚙️ **DevOps Engineer**
+
+![DevOps Symbol](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
