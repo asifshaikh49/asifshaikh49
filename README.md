@@ -51,7 +51,6 @@ I specialize in **CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **con
 
 ### 📊 **Monitoring & Logging:**  
 🔹 Prometheus & Grafana  
-🔹 ELK Stack (Elasticsearch, Logstash, Kibana)  
 🔹 CloudWatch  
 
 ---
@@ -80,10 +79,9 @@ I specialize in **CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **con
 ---
 
 ### 📞 To Reach Me
-📧 Shoot me an [Email](mailto:asifshaikh4906@email.com)  
-📱 📱 Call me on [8080851485](tel:+918080851485)
 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/asif-shaikh-94aa56225)
-
+📧 Shoot me an [Email](mailto:asifshaikh4906@email.com)  
+📱  Call me on [8080851485](tel:+918080851485)
 
 ---
 
