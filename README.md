@@ -13,14 +13,14 @@ I specialize in **CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **con
 ### 🧰 **DevOps Toolchain**
 
 <p align="left">
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="140" />
-  <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab" width="140" />
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Actions" width="150" />
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="140" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="140" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Ansible" width="140" />
-  <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" width="140" />
-  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="Jenkins" width="140" />
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="90" />
+  <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab" width="90" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Actions" width="100" />
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="90" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="90" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Ansible" width="90" />
+  <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" width="90" />
+  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="Jenkins" width="90" />
 </p>
 
 ---
@@ -90,5 +90,5 @@ I specialize in **CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **con
 ### ⚙️ **DevOps Engineer**
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/CloudWithRaj/DevOps/main/devops-infinity.png" alt="DevOps Infinity Logo" width="240" />
+  <img src="https://raw.githubusercontent.com/asifshaikh49/devops-assets/main/devops-hand-loop.png" alt="DevOps Logo" width="240" />
 </p>
