@@ -90,5 +90,5 @@ I specialize in **CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **con
 ### ⚙️ **DevOps Engineer**
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/mohamedameen93/devops-presentation/main/images/devops.png" alt="DevOps Logo" width="240" />
+  <img src="https://raw.githubusercontent.com/CloudWithRaj/DevOps/main/devops-infinity.png" alt="DevOps Infinity Logo" width="240" />
 </p>
