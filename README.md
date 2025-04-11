@@ -1,9 +1,9 @@
-# ⚙️ AsifahmedOps  
+# ⚙️ Asif-shaikh  
 
 **"Engineering is not only about building software, but enabling it to build, run, and scale reliably."**  
 — Inspired by the legacy of Sir M. Visvesvaraya  
 
-Welcome to **AsifahmedOps**, a **DevOps Engineering** repository crafted by **Asifahmed Shaikh**.  
+Welcome to **Asif-shaikh's-Github**, a **DevOps Engineering** repository crafted by **Asifahmed Shaikh**.  
 This repo serves as a centralized hub for **automation pipelines, infrastructure as code, CI/CD workflows, and containerized deployments** using modern DevOps technologies.  
 
 ---
@@ -63,16 +63,16 @@ This repo serves as a centralized hub for **automation pipelines, infrastructure
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsifahmedShaikh&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sir-asif-shaikh&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🧑‍💻 Contribution Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifahmedShaikh&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sir-asif-shaikh&layout=compact&theme=tokyonight)
 
 ---
 
 ---
 
-![DevOps GIF](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
+![DevOps Engineer GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
