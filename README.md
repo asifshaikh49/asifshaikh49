@@ -88,7 +88,7 @@ I specialize in **CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **con
 ---
 
 ### ⚙️ **DevOps Engineer**
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/122346916/233114176-0f4d6cfa-54b4-4f5f-a3cb-2f2cb33d35fb.png" alt="DevOps Logo" width="240" />
-</p>
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devops/devops-original.svg" alt="DevOps Logo" width="240" />
+</p>
