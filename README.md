@@ -1,9 +1,8 @@
-# ⚙️ Asif-shaikh  
+# ⚙️ Asif Shaikh  
 
 **"Engineering is not only about building software, but enabling it to build, run, and scale reliably."**  
-— Inspired by the legacy of Sir M. Visvesvaraya  
 
-Welcome to **Asif-shaikh's-Github**, a **DevOps Engineering** repository crafted by **Asifahmed Shaikh**.  
+Welcome to **Asif Shaikh**, a **DevOps Engineering** repository maintained by **Asifahmed Shaikh**.  
 This repo serves as a centralized hub for **automation pipelines, infrastructure as code, CI/CD workflows, and containerized deployments** using modern DevOps technologies.  
 
 ---
@@ -22,7 +21,6 @@ This repo serves as a centralized hub for **automation pipelines, infrastructure
 
 ### ☁️ **Cloud & Monitoring**  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
 ![ELK Stack](https://img.shields.io/badge/-ELK-005571?style=for-the-badge&logo=elasticstack&logoColor=white)  
@@ -40,7 +38,6 @@ This repo serves as a centralized hub for **automation pipelines, infrastructure
 
 ### ☁️ **Cloud & Infrastructure:**  
 🔹 AWS (EC2, S3, IAM, EKS, CloudWatch)  
-🔹 Azure DevOps  
 🔹 Linux Server Administration  
 
 ### 📊 **Monitoring & Logging:**  
@@ -55,7 +52,7 @@ This repo serves as a centralized hub for **automation pipelines, infrastructure
 ✅ **CI/CD Pipeline Automation**  
 ✅ **Container Orchestration with Kubernetes**  
 ✅ **Infrastructure as Code (IaC) with Terraform**  
-✅ **Cloud-Native Deployments (AWS/Azure)**  
+✅ **Cloud-Native Deployments (AWS)**  
 ✅ **Centralized Monitoring and Logging**  
 ✅ **Scalable and Secure Infrastructure Design**  
 
@@ -63,13 +60,13 @@ This repo serves as a centralized hub for **automation pipelines, infrastructure
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sir-asif-shaikh&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asifshaikh49&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🧑‍💻 Contribution Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sir-asif-shaikh&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asifshaikh49&layout=compact&theme=tokyonight)
 
 ---
 
