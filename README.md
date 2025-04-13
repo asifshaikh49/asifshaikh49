@@ -83,7 +83,7 @@ I specialize in **CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **con
 
 📱  Call me on [8080851485](tel:+918080851485)
 
-📧 Shoot me an [Email](mailto:asifshaikh4906@email.com)  
+📧 Shoot me an [Email](mailto:asifshaikh4906@gmail.com)  
 
 ---
 
