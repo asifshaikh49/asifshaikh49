@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-I’m **Asif Shaikh**, an **AWS DevOps Engineer** passionate about **cloud-native deployments**, **automation**, and **infrastructure as code**. I have **1 year of experience** as a **DevOps Intern**, where I focused on automating deployments, maintaining CI/CD pipelines, and managing infrastructure using cloud technologies. My goal is to streamline development workflows, improve scalability, and optimize system performance through automation and cloud-native deployments.
+I’m **Asif Shaikh**, an **AWS DevOps Engineer** passionate about **cloud-native deployments**, **automation**, and **infrastructure as code**. I have **hands‑on experience** as a **Cloud Engineer**, focusing on **automating deployments**, **maintaining CI/CD pipelines**, and managing **cloud infrastructure**. My goal is to streamline **development workflows, improve scalability**, and optimize system performance through automation and **cloud-native deployments**.
 
 I specialize in **CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **containerization**. With my hands-on experience in **AWS**, **Docker**, and **Kubernetes**, I strive to bring scalable solutions to the cloud and ensure smooth operations through monitoring and logging.
 
